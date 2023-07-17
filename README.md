@@ -1,6 +1,6 @@
 - 👋 Hi, This is Abhay Vishwakarma A Front End developer
 - 👀 I’m interested in Ethical Hacking and Aitools (trends today) ,Gaming (development and playing)
-- 🌱 I’m currently learning Backend developement and DSA with C++ and exploring the compative programing 
+- 🌱 I’m currently learning Backend developement and DSA with C++ and exploring the comptative programing 
 - 💞️ I’m looking to collaborate on content creation and my front end projects
 - 📫you can connect me on https://linktr.ee/abhayvii
 
