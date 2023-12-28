@@ -1,6 +1,6 @@
-- 👋 Hi, This is Abhay Vishwakarma ,MernStack Developer
+- 👋 Hi, This is Abhay Vishwakarma ,A MERN Stack Developer
 - 👀 I’m interested in Ethical Hacking and Aitools (trends today) ,Gaming (development and playing)
-- 🌱 I’m currently learning Backend developement and DSA with C++ and exploring the competitive programing 
+- 🌱 I’m currently learning   DSA with C++ and exploring  competitive programing 
 - 💞️ I’m looking to collaborate on content creation and my front end projects
 - 📫you can connect me on https://linktr.ee/abhayvii
 
