@@ -1,4 +1,5 @@
-![Blue Professional Modern Minimalist Simple Clean LinkedIn Career Page Background - Copy](https://github.com/abhayv290/abhayv290/assets/133063358/60a80e13-5c6e-4be6-b962-5a380ffbb3e0)
+![Blue Professional Modern Minimalist Simple Clean LinkedIn Career Page Background (1)](https://github.com/abhayv290/abhayv290/assets/133063358/6c1851e3-6a7d-4ccd-9534-33060c292ac7)
+
 
 
 
