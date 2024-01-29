@@ -5,8 +5,7 @@
 
 
 - 👋 Hi, This is Abhay Vishwakarma ,A MERN Stack Developer   ,BTECH (CSE) sophomore 
-- 👀 As a Techie I'm obssessed with every technical fields mostly now days treds like various Ai tools( AI & ML) , IOTs , I also have some obsession with Hacking (ethical one)
--  and  love playing pc games .
+- 👀 As a Techie I'm obssessed with every technical fields mostly now days treds like various Ai tools( AI & ML) , IOTs , I also have some obsession with Hacking (ethical one) and  love playing pc games .
 - 4⭐ in C on @hackerRank and 4⭐ in python on HackerRank
 - 🌱 I’m currently learning   DSA with C++ and exploring  competitive programing.
 - 500 DSA Questions Solved in  DSA on platforms like @Leetcode & codingNinjas.
